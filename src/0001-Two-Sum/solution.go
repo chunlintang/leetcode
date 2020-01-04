@@ -2,7 +2,7 @@ package main
 
 func TwoSum(nums []int, target int) []int {
 	for i := 0; i < len(nums); i++ {
-		for j := 1; j < len(nums); j++ {
+		for j := 1 + 1; j < len(nums); j++ {
 			if nums[i]+nums[j] == target {
 				return []int{i, j}
 			}
