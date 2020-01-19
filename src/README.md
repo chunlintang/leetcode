@@ -7,5 +7,6 @@
 - [Longest Palindromic Substring](./0005-Longest%20Palindromic%20Substring)
 - [ZigZag Conversion](./0006-ZigZag%20Conversion)
 - [Reverse Integer](./0007-Reverse%20Integer)
+- [String to Integer (atoi)](./0008-String%20to%20Integer%20(atoi))
 
 > continue ...
